@@ -588,5 +588,14 @@
       "Science Fiction",
       "Adventure"
     ]
+  },
+  "Christmas with the Kranks": {
+    "description": "After their daughter moves away, an empty-nest couple plans to skip Christmas and take a cruise, upsetting their neighbors. When a last-minute change brings the prospect of a family visit, they have little time to pull together a holiday celebration.",
+    "poster": "https://image.tmdb.org/t/p/w780/q866vL3KhAjbkZH1enT7AoxmRHx.jpg",
+    "release_date": "2004-11-24",
+    "genres": [
+      "Comedy",
+      "Family"
+    ]
   }
 }
