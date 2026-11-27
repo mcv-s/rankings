@@ -11,6 +11,7 @@ Mission Impossible
 iRobot
 Top Gun Maverick
 Top Gun
+Tomorrowland
 The Family Plan
 The Martian
 Groundhog Day
@@ -52,6 +53,7 @@ The Game Plan
 Aladdin
 Cars
 ARGYLLE
+Noelle
 Planes: Fire and Rescue
 The Lion King
 Gravity
@@ -60,6 +62,7 @@ Planes
 Alice in Wonderland
 The Secret Garden
 The Great Mouse Detective
+Miracle on 34th Street
 Psych: The Movie
 A Bug’s Life
 Tarzan
