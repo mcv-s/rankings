@@ -597,5 +597,36 @@
       "Comedy",
       "Family"
     ]
+  },
+  "Tomorrowland": {
+    "description": "A bright, science-curious teenager and a once-promising inventor who has grown disillusioned join forces on a perilous mission. Their search leads toward a mysterious place tied to their shared memories, where they hope to uncover its secrets and find a more hopeful path forward.",
+    "poster": "https://image.tmdb.org/t/p/w780/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+    "release_date": "2015-05-19",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Mystery",
+      "Science Fiction"
+    ]
+  },
+  "Noelle": {
+    "description": "When her brother gets cold feet about taking over as Santa, Noelle sets out to find him and bring him back. Her mission takes her away from the North Pole and into the wider world.",
+    "poster": "https://image.tmdb.org/t/p/w780/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg",
+    "release_date": "2019-11-12",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  "Miracle on 34th Street": {
+    "description": "After a parade performance, a kindly older man is hired to play Santa Claus at a department store. His convincing portrayal leads people to wonder whether he is truly Santa or simply believes he is, while a practical mother and others question his sanity.",
+    "poster": "https://image.tmdb.org/t/p/w780/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg",
+    "release_date": "1947-06-04",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ]
   }
 }
